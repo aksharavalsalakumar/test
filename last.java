@@ -1,5 +1,5 @@
 import java.util.InputMismatchException;
-import java.util.Scanner;
+import java.util.S;
 
 public class last {
     public static void main(String[] args) {
